@@ -38,9 +38,3 @@ g.a = graph1 +
   transition_time(year) +
   labs(subtitle = "Year: {frame_time}")
 
-
-
-
-
-
-
