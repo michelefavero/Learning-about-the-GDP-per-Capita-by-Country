@@ -1,1 +1,1 @@
-# Learning-about-the-GDP-per-Capita-by-Country
+# Learning_about_the_GDP-per_Capita_by_Country
